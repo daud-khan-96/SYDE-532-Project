@@ -1,10 +1,3 @@
-"""
-Temporal Network Analysis of Passing Dynamics in Association Football
-Main analysis script — La Liga 2015/16
-
-Generates all figures and statistical results for the final report.
-"""
-
 import json
 import os
 import sys
