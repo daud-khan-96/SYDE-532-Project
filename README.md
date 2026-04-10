@@ -11,8 +11,8 @@ The final analysis script (`analysis_main.py`) was developed with assistance fro
 ### 1. Clone this repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/daud-khan-96/SYDE-532-Project.git
+cd SYDE-532-Project
 ```
 
 ### 2. Install Python dependencies
