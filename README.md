@@ -4,7 +4,7 @@ SYDE 532: Introduction to Complex Systems — Final Project
 Author: Daud Khan, University of Waterloo
 
 ## AI Disclosure: 
-The final analysis script (`code/analysis_main.py`) was developed with assistance from Claude (Anthropic) for code refactoring, statistical test implementation, and figure generation improvements. The original analysis pipeline was developed independently. All AI-assisted code was reviewed and validated by the author.
+The final analysis script (`analysis_main.py`) was developed with assistance from Claude (Anthropic) for code refactoring, statistical test implementation, and figure generation improvements. The original analysis pipeline was developed independently. All AI-assisted code was reviewed and validated by the author. The original `.ipynb' file wirtten by the author is attached as well.
 
 ## Setup Instructions
 
